@@ -51,5 +51,7 @@ Practice professional React architecture and external API consumption as part of
 
 This project is part of a structured React learning path focused on professional workflow and clean architecture.
 
+Learning React with a professional architecture approach.
+
 
 Developed by Diego Alejandro Correa Quiroz
